@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Heldrun
+- 👀 I’m interested in python development
+- 🌱 I’m currently learning django, tkinter, and pygame
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me (dfurlongd@gmail.com)
